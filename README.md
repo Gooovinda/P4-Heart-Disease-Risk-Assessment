@@ -54,3 +54,10 @@ Achieved 99.2% Accuracy and nearly perfect F1-score (0.99) on both classes.
 Evaluated using confusion matrix and classification report.
 
 ✅ This showcases strong performance and generalizability on a balanced dataset.
+
+📂 Project Structure
+├── app.py                # Streamlit UI
+├── model.pkl             # Trained ML model
+├── dataset/              # Raw dataset
+├── heart_disease.csv     # Cleaned dataset used in training
+└── README.md             # Project documentation
