@@ -27,6 +27,11 @@ Build a smart UI where users can input health metrics and receive an instant pre
 - **Source**: [Heart Disease Risk Prediction Dataset](https://www.kaggle.com/datasets/mahatiratusher/heart-disease-risk-prediction-dataset?resource=download)  
 - **Author**: Mahatir Ahmed Tusher  
 - **Features**: 18 health-related input fields including symptoms, vitals, medical history, and age.
+  
+- The dataset used for training and testing the model is included in the project folder as a .csv file (heart_disease_data.csv).
+- It contains health-related features such as age, blood pressure, cholesterol, and symptoms relevant to heart disease risk.
+
+No external downloads are required — the data is ready to use out of the box.
 
 ## 🧪 Model Performance
 
