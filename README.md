@@ -56,7 +56,8 @@ Evaluated using confusion matrix and classification report.
 ✅ This showcases strong performance and generalizability on a balanced dataset.
 ```
 
-``` 📂 Project Structure
+```
+📂 Project Structure
 ├── app.py                # Streamlit UI
 ├── model.pkl             # Trained ML model
 ├── dataset/              # Raw dataset
