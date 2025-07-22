@@ -53,7 +53,7 @@ Achieved 99.2% Accuracy and nearly perfect F1-score (0.99) on both classes.
 
 Evaluated using confusion matrix and classification report.
 
-✅ This showcases strong performance and generalizability on a balanced dataset.
+✅ This showcases strong performance and generalizability on a balanced dataset. ```/text
 
 📂 Project Structure
 ├── app.py                # Streamlit UI
