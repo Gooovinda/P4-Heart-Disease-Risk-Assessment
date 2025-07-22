@@ -62,36 +62,3 @@ Evaluated using confusion matrix and classification report.
 ├── dataset/              # Raw dataset
 ├── heart_disease.csv     # Cleaned dataset used in training
 └── README.md             # Project documentation
-```
-🔧 How to Run
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/heart-disease-risk-assessment.git
-cd heart-disease-risk-assessment
-(Optional) Create a virtual environment
-
-bash
-Copy
-Edit
-python -m venv venv
-venv\Scripts\activate    # On Windows
-source venv/bin/activate # On macOS/Linux
-Install the required dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Streamlit application
-
-bash
-Copy
-Edit
-streamlit run app.py
-Open your browser
-Navigate to http://localhost:8501 if it doesn't open automatically.
-
-```
