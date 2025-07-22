@@ -56,9 +56,22 @@ Evaluated using confusion matrix and classification report.
 ✅ This showcases strong performance and generalizability on a balanced dataset.
 ```
 
-📂 Project Structure
+``` 📂 Project Structure
 ├── app.py                # Streamlit UI
 ├── model.pkl             # Trained ML model
 ├── dataset/              # Raw dataset
 ├── heart_disease.csv     # Cleaned dataset used in training
 └── README.md             # Project documentation
+```
+### How to Run the Project
+
+1. Clone the repository or download the ZIP file and extract it.
+2. Make sure you have Python installed (preferably 3.7 or higher).
+3. Install the required packages using pip:
+   pip install -r requirements.txt
+4. Navigate to the project folder in your terminal:
+   cd path/to/project/folder
+5. Run the Streamlit app:
+   streamlit run app.py
+6. A browser window will open with the app running. If not, copy the given localhost URL and open it manually.
+
